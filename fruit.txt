@@ -5,4 +5,8 @@ banana
 peach
 lemon
 plum
+<<<<<<< ce9a87a53e3c1e31748aa3dbbdfcf93708cb3f9f
 kiwi
+=======
+date
+>>>>>>> BOB: added date to fruit list
